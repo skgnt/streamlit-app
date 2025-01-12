@@ -1,8 +1,23 @@
 # streamlit-app
-このアプリは乱数を生成します。  
-次のコマンドで起動します。
-
-```
+## streamlit-app
+### streamlit-app
+#### streamlit-app
+##### streamlit-app
+###### streamlit-app
+あいうえお  
+かきくけこ
+```shell
 pip install streamlit
-streamlit run practice.py
 ```
+
+
+
+```py
+import streamlit as st
+st.write("hello")
+```
+
+
+下記のように箇条書き
+* これが
+* 箇条書き
